@@ -9,6 +9,7 @@
     <authorUrl>www.krizalys.com</authorUrl>
     <version>1.0.0</version>
     <description>COM_KRIZALYS_COUNTRIES_XML_DESCRIPTION</description>
+    <scriptfile>script.php</scriptfile>
 
     <administration>
         <files folder="admin">

@@ -13,5 +13,5 @@ if [ -f ${archivepath} ]; then
     rm -f ${archivepath}
 fi
 
-wd="$(pwd)"; cd "${workdir}/${NAME}"; zip -r ${OUTPUTDIR}/${NAME} *; cd "${wd}"
+wd="$(pwd)"; cd "${workdir}/${NAME}"; mv admin/script.php .; zip -r ${OUTPUTDIR}/${NAME} *; cd "${wd}"
 rm -rf "${workdir}"

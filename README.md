@@ -12,6 +12,15 @@ and offers a list of 247 [ISO 3166][iso-3166] countries along with their
 
 The extension is licensed under the GNU General Public License version 3.
 
+Supported languages
+-------------------
+
+As of version 1.0.1, the Krizalys Countries supports the following locales:
+
+* English (en_GB locale)
+* French (fr_FR locale)
+* German (de_DE locale)
+
 Demonstration
 -------------
 

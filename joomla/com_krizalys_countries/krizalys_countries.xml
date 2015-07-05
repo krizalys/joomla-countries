@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="component" version="2.5" method="upgrade">
-	<name>com_krizalys_countries</name>
-	<author>Krizalys</author>
-	<creationDate>February 2013</creationDate>
-	<copyright>Copyright (C) 2008 - 2013 Krizalys (http://www.krizalys.com/). All rights reserved.</copyright>
-	<license>GNU General Public License version 3 (http://www.gnu.org/licenses/gpl.html)</license>
-	<authorEmail>kriss@krizalys.com</authorEmail>
-	<authorUrl>www.krizalys.com</authorUrl>
-	<version>1.0.0</version>
-	<description>COM_KRIZALYS_COUNTRIES_XML_DESCRIPTION</description>
+    <name>com_krizalys_countries</name>
+    <author>Krizalys</author>
+    <creationDate>February 2013</creationDate>
+    <copyright>Copyright (C) 2008 - 2013 Krizalys (http://www.krizalys.com/). All rights reserved.</copyright>
+    <license>GNU General Public License version 3 (http://www.gnu.org/licenses/gpl.html)</license>
+    <authorEmail>kriss@krizalys.com</authorEmail>
+    <authorUrl>www.krizalys.com</authorUrl>
+    <version>1.0.0</version>
+    <description>COM_KRIZALYS_COUNTRIES_XML_DESCRIPTION</description>
 
-	<administration>
-		<files folder="admin">
-			<folder>language</folder>
-			<folder>models</folder>
-			<folder>views</folder>
-			<filename>controller.php</filename>
-			<filename>index.html</filename>
-			<filename>krizalys_countries.php</filename>
-		</files>
-	</administration>
+    <administration>
+        <files folder="admin">
+            <folder>language</folder>
+            <folder>models</folder>
+            <folder>views</folder>
+            <filename>controller.php</filename>
+            <filename>index.html</filename>
+            <filename>krizalys_countries.php</filename>
+        </files>
+    </administration>
 
-	<updateservers>
-		<server type="extension" priority="1" name="Krizalys Countries updates">http://update.krizalys.com/extend/joomla/countries.xml</server>
-	</updateservers>
+    <updateservers>
+        <server type="extension" priority="1" name="Krizalys Countries updates">http://update.krizalys.com/extend/joomla/countries.xml</server>
+    </updateservers>
 </extension>

@@ -17,9 +17,12 @@ Supported languages
 
 As of version 1.0.1, the Krizalys Countries supports the following locales:
 
-* English (en_GB locale)
-* French (fr_FR locale)
-* German (de_DE locale)
+* English (`en_GB` locale)
+* French (`fr_FR` locale)
+* German (`de_DE` locale)
+
+If you are interested in translating Krizalys Breadcrumbs into your language,
+please [contact us][contact].
 
 Demonstration
 -------------
@@ -31,5 +34,6 @@ demo][krizalys-countries-demo] and for more information, please consult the
 [krizalys-countries]:      http://www.krizalys.com/extension/krizalys-countries
 [joomla]:                  http://www.joomla.org/
 [iso-3166]:                https://en.wikipedia.org/wiki/ISO_3166
+[contact]:                 http://www.krizalys.com/contact
 [krizalys-countries-demo]: http://demo.krizalys.com/joomla/demos/krizalys-countries
 [documentation]:           http://www.krizalys.com/book/krizalys-countries-documentation

@@ -10,7 +10,7 @@ class provided by the Joomla! framework. It supports both Joomla! 2.5 and
 Joomla! 3.0 and offers a list of 247 [ISO 3166][iso-3166] countries along with
 their 2-letters code. This is an handy addition to build global networks.
 
-The extension is licensed under the [GNU General Public License version 3][gpl].
+The extension is licensed under the [BSD 3-Clause License][bsd-3-clause].
 
 Supported languages
 -------------------
@@ -34,7 +34,7 @@ demo][krizalys-countries-demo] and for more information, please consult the
 [krizalys-countries]:      http://www.krizalys.com/extension/krizalys-countries
 [joomla]:                  http://www.joomla.org/
 [iso-3166]:                https://en.wikipedia.org/wiki/ISO_3166
-[gpl]:                     http://www.gnu.org/licenses/gpl.html
+[bsd-3-clause]:            https://github.com/krizalys/countries/blob/master/LICENSE
 [contact]:                 http://www.krizalys.com/contact
 [krizalys-countries-demo]: http://demo.krizalys.com/joomla/demos/krizalys-countries
 [documentation]:           http://www.krizalys.com/book/krizalys-countries-documentation

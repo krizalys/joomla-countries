@@ -1,6 +1,12 @@
 Change log
 ==========
 
+[Unreleased][unreleased]
+------------------------
+
+### Changed
+- GNU GPL 3 License to BSD 3-Clause License.
+
 [1.0.1] - 2015-07-05
 --------------------
 ### Added
@@ -11,4 +17,5 @@ Change log
 ### Changed
 - Minor code refactoring.
 
-[1.0.1]: https://github.com/krizalys/countries/compare/1.0.0...1.0.1
+[unreleased]: https://github.com/krizalys/countries/compare/1.0.1...HEAD
+[1.0.1]:      https://github.com/krizalys/countries/compare/1.0.0...1.0.1

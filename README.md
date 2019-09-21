@@ -10,7 +10,7 @@ class provided by the Joomla! framework. It supports both Joomla! 2.5 and
 Joomla! 3.0 and offers a list of 247 [ISO 3166][iso-3166] countries along with
 their 2-letters code. This is an handy addition to build global networks.
 
-The extension is licensed under the [BSD 3-Clause License][bsd-3-clause].
+The extension is licensed under the [3-Clause BSD License][bsd-3-clause].
 
 Supported languages
 -------------------

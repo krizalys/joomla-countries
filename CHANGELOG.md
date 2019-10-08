@@ -21,5 +21,5 @@ Change log
 
 - Minor code refactoring.
 
-[unreleased]: https://github.com/krizalys/countries/compare/1.0.1...HEAD
-[1.0.1]:      https://github.com/krizalys/countries/compare/1.0.0...1.0.1
+[unreleased]: https://github.com/krizalys/joomla-countries/compare/1.0.1...HEAD
+[1.0.1]:      https://github.com/krizalys/joomla-countries/compare/1.0.0...1.0.1

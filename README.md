@@ -34,7 +34,7 @@ demo][krizalys-countries-demo] and for more information, please consult the
 [krizalys-countries]:      http://www.krizalys.com/extension/krizalys-countries
 [joomla]:                  http://www.joomla.org/
 [iso-3166]:                https://en.wikipedia.org/wiki/ISO_3166
-[bsd-3-clause]:            https://github.com/krizalys/countries/blob/master/LICENSE
+[bsd-3-clause]:            https://github.com/krizalys/joomla-countries/blob/master/LICENSE
 [contact]:                 http://www.krizalys.com/contact
 [krizalys-countries-demo]: http://demo.krizalys.com/joomla/demos/krizalys-countries
 [documentation]:           http://www.krizalys.com/book/krizalys-countries-documentation
